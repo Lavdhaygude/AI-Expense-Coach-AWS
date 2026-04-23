@@ -1,0 +1,14 @@
+node_modules/
+.next/
+dist/
+coverage/
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+.env
+.env.local
+frontend/.env.local
+backend/.env
+

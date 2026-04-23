@@ -1,0 +1,6 @@
+db_password = "replace-me"
+key_name    = "your-ec2-keypair"
+openai_api_key = ""
+openai_model   = "gpt-4o-mini"
+ssh_allowed_cidr = "0.0.0.0/0"
+app_domain = ""
